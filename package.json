@@ -1,0 +1,17 @@
+{
+  "name": "node-openai",
+  "version": "1.0.0",
+  "description": "A commercial OpenAI project",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "OpenAI"
+  ],
+  "author": "Fintan Kearney",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "openai-api": "^1.2.6"
+  }
+}
